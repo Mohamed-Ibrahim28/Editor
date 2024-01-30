@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="" alt="python" width="80"/>
-</div>
+</div> -->
 
 
 <br />
